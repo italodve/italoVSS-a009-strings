@@ -1,4 +1,4 @@
-const nome = prompt('qual o seu nome') 
+const nome = prompt('qual o seu nome')  //a
 const comida1 = prompt("qual sua comida favorita")
 const comida2 = prompt("qual sua comida favorita")
 const comida3 = prompt("qual sua comida favorita")   
